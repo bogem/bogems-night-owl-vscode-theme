@@ -1,0 +1,21 @@
+{
+  "name": "bogems-night-owl",
+  "displayName": "Bogem's Night Owl",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bogem's Night Owl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bogems-night-owl-color-theme.json"
+      }
+    ]
+  }
+}
