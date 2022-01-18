@@ -1,14 +1,32 @@
 {
   "name": "bogems-night-owl",
   "displayName": "Bogem's Night Owl",
-  "description": "",
-  "version": "0.0.1",
+  "description": "Custom variant of sdras' Night Owl for VSCode",
+  "version": "1.0.0",
+  "publisher": "bogem",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bogem/bogems-night-owl-vscode-theme"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Night Owl",
+    "Night Theme",
+    "Early Bird"
+  ],
+  "galleryBanner": {
+    "color": "#061526",
+    "theme": "dark"
+  },
   "engines": {
-    "vscode": "^1.63.0"
+    "vscode": "^1.17.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "owl-icon.png",
   "contributes": {
     "themes": [
       {
